@@ -2,3 +2,4 @@ requests
 pandas
 sqlalchemy
 notion-client
+psycopg2-binary
